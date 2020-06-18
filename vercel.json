@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "env": {
+    "MONGODB_URI": "mongodb://vercel1:vercel1@ds013280.mlab.com:13280/vercel?retryWrites=true"
+  }
+}
